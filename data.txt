@@ -3,4 +3,3 @@ print(welcome)
 name = input("Enter your name")
 print(welcome + " name" + "!")
 # beep boop shamalama
-# heyo
